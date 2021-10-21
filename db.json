@@ -1,14 +1,13 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "names": [
+      { "id": 1, "title": "Taylor Swift" },
+      { "id": 2, "title": "Fearless: Taylor's version" },
+      { "id": 3, "title": "Speak Now" },
+      { "id": 4, "title": "Red"},
+      { "id": 5, "title": "1989" },
+      { "id": 6, "title": "Reputation" },
+      { "id": 7, "title": "Lover" },
+      { "id": 8, "title": "Folklore" },
+      { "id": 2, "title": "Evermore" }
+    ]
   }
