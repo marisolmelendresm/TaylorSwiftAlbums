@@ -1,5 +1,5 @@
 {
-    "names": [
+    "albums": [
       { "id": 1, "title": "Taylor Swift" },
       { "id": 2, "title": "Fearless: Taylor's version" },
       { "id": 3, "title": "Speak Now" },
