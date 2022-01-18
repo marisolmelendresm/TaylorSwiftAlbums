@@ -1,0 +1,162 @@
+.card-container1 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(120, 192, 240);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+  }
+  
+  .card-container1:hover {
+    transform: scale(1.05);
+  }
+
+.card-container2 {
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container2:hover {
+    transform: scale(1.05);
+  }
+
+.card-container3 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(104, 9, 104);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container3:hover {
+    transform: scale(1.05);
+  }
+
+.card-container4 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(173, 11, 11);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container4:hover {
+    transform: scale(1.05);
+  }
+
+.card-container5 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(224, 179, 241);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container5:hover {
+    transform: scale(1.05);
+  }
+
+.card-container6 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(68, 67, 67);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container6:hover {
+    transform: scale(1.05);
+  }
+
+.card-container7 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(245, 169, 226);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container7:hover {
+    transform: scale(1.05);
+  }
+
+.card-container8 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(177, 177, 177);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container8:hover {
+    transform: scale(1.05);
+  }
+
+.card-container9 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 151, 36);
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+  
+  .card-container9:hover {
+    transform: scale(1.05);
+  }
+
+.cover-photo {
+      height: 200px;
+      width: 200px;
+      border-radius: 0%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+  
